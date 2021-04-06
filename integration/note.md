@@ -40,9 +40,15 @@ Mettre en ligne le plus rapidement avec le miunimum de fonctionnement
 
 ## Question :
 
+quelqu un qui se comecte manuellement  == gestion user
+
+psaume prédéfinit == gestion moi
+
 difference entre membre et pas membre en terme de vue 
 
 inscription ==> pour ??
+
+relation entre : perikopa / diary / edito / reflexion.
 
 ##  Suite :
 

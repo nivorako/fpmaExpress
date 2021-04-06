@@ -8,5 +8,6 @@ Listes des types d'utilisateurs :
 
 |En tant que .... | J'ai besioins de ...| Afin de ...|
 |-----------------|---------------------|------------|
-|visiteur |Une page d'acceuil |Prévisualiser le contenu du site|
-|visiteur|
+|Visiteur |Pages |Visualiser le contenu du site|
+|Admin|une page login|Se connecter en tant que admin
+|Admin|une page     |Pouvoir modifier ou rajouter les contenu des pages
